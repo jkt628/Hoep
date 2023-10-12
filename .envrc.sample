@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+source_env_if_exists ../../.envrc
+export VIRTUAL_ENV=venv
+layout python python3.10
